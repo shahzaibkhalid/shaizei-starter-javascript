@@ -1,0 +1,33 @@
+{
+  "name": "shaizei-starter-javascript",
+  "version": "1.0.0",
+  "description": "An official starter kit for React-JavaScript applications created with @shaizei/cli.",
+  "main": "index.js",
+  "author": "Shahzaib Khalid <shahzaibkhalidmalik@outlook.com> (http://www.shahzaibkhalid.com)",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "shaizei develop",
+    "build": "shaizei build",
+    "lint": "shaizei lint",
+    "lint:fix": "shaizei lint-fix",
+    "analyze": "shaizei analyze",
+    "serve": "shaizei serve",
+    "epi": "shaizei eslint-prettier-integration",
+    "prettier": "shaizei prettier",
+    "prettier:fix": "shaizei prettier-fix"
+  },
+  "dependencies": {
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "react-hot-loader": "^4.7.1"
+  },
+  "devDependencies": {
+    "@shaizei/babel-preset": "^0.1.0-alpha.2",
+    "@shaizei/cli": "^0.1.0-alpha.4",
+    "@shaizei/eslint-config": "^0.1.0-alpha.4",
+    "@shaizei/prettier-config": "^0.1.0-alpha.3",
+    "@shaizei/scripts": "^0.1.0-alpha.4",
+    "@shaizei/webpack-config": "^0.1.0-alpha.4"
+  }
+}
