@@ -1,0 +1,9 @@
+{
+  "eslint.enable": true,
+  "eslint.alwaysShowStatus": true,
+  "eslint.packageManager": "yarn",
+  "eslint.nodePath": "./node_modules/@shaizei/eslint-config/node_modules",
+  "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
+  "editor.formatOnSave": false,
+  "prettier.eslintIntegration": true
+}
