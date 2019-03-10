@@ -24,9 +24,9 @@
   },
   "devDependencies": {
     "@shaizei/babel-preset": "^0.1.0-alpha.3",
-    "@shaizei/eslint-config": "^0.1.0-alpha.7",
+    "@shaizei/eslint-config": "^0.1.0-alpha.8",
     "@shaizei/prettier-config": "^0.1.0-alpha.3",
-    "@shaizei/scripts": "^0.1.0-alpha.8",
-    "@shaizei/webpack-config": "^0.1.0-alpha.7"
+    "@shaizei/scripts": "^0.1.0-alpha.9",
+    "@shaizei/webpack-config": "^0.1.0-alpha.8"
   }
 }
