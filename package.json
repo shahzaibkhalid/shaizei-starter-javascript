@@ -2,7 +2,7 @@
   "name": "shaizei-starter-javascript",
   "version": "1.0.0",
   "description": "An official starter kit for React-JavaScript applications created with @shaizei/cli.",
-  "main": "index.js",
+  "main": "src/index.jsx",
   "author": "Shahzaib Khalid <shahzaibkhalidmalik@outlook.com> (http://www.shahzaibkhalid.com)",
   "license": "MIT",
   "private": true,
