@@ -1,10 +1,6 @@
 <h1 align="center">shaizei-starter-kit</h1>
 
-<p align="center">An official starter kit for React-JavaScript applications created with
-`@shaizei/cli`.</p>
-
-Note: This project was scaffolded by
-[@shaizei/cli](https://www.npmjs.com/package/@shaizei/cli).
+<p align="center">An official starter kit for React-JavaScript applications created with @shaizei/cli.</p>
 
 # Commands
 
