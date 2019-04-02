@@ -27,6 +27,7 @@
     "@shaizei/eslint-config": "^0.1.0-beta.4",
     "@shaizei/prettier-config": "^0.1.0-beta.2",
     "@shaizei/scripts": "^0.1.0-beta.4",
-    "@shaizei/webpack-config": "^0.1.0-beta.4"
+    "@shaizei/webpack-config": "^0.1.0-beta.4",
+    "@shaizei/cli": "^0.1.0-beta.4"
   }
 }
