@@ -1,1 +1,3 @@
-module.exports = require('@shaizei/eslint-config').javascriptReact;
+module.exports = {
+  extends: '@shaizei/eslint-config/javascriptReact',
+};
