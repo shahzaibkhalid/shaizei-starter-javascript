@@ -1,4 +1,4 @@
-const babelConfig = api => {
+const babelConfig = (api) => {
   api.cache.using(() => process.env.NODE_ENV);
 
   const plugins = [];
