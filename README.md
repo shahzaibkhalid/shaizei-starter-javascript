@@ -86,3 +86,8 @@ are any issues among ESLint & Prettier integration, run the following command:
 ```shell
 shaizei eslint-prettier-integration
 ```
+
+# What is `shaizei`? 🤔
+
+`shaizei` is a toolkit for building & maintaining futuristic React apps.  
+Read more about it by checking the [official repository](https://github.com/shahzaibkhalid/shaizei).
