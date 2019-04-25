@@ -1,6 +1,7 @@
 import React, { StrictMode } from 'react';
 import { render } from 'react-dom';
 import { setConfig } from 'react-hot-loader';
+import './styles.css';
 import App from 'components/App';
 
 setConfig({
