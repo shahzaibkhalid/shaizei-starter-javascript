@@ -20,7 +20,8 @@
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-hot-loader": "^4.8.1"
+    "react-hot-loader": "^4.8.1",
+    "prop-types": "^15.7.2"
   },
   "devDependencies": {
     "@shaizei/babel-preset": "^0.1.0-beta.9",
