@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-const Play = (props) => {
+const Hello = (props) => {
   const { name } = props;
   return (
     <div>
@@ -10,8 +10,8 @@ const Play = (props) => {
   );
 };
 
-Play.propTypes = {
+Hello.propTypes = {
   name: PropTypes.string.isRequired,
 };
 
-export default Play;
+export default Hello;
