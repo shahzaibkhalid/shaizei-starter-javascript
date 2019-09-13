@@ -9,6 +9,6 @@
     "typescript",
     "typescriptreact"
   ],
-  "editor.formatOnSave": true,
-  "prettier.eslintIntegration": true
+  "eslint.autoFixOnSave": true,
+  "editor.formatOnSave": true
 }
