@@ -1,6 +1,6 @@
 import React from 'react';
 import { hot } from 'react-hot-loader/root';
-import Hello from 'components/Hello';
+import Hello from 'components/hello';
 import Logo from 'assets/logo.svg';
 
 const shaizeiGitHub = (
