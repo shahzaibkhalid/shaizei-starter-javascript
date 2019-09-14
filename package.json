@@ -25,11 +25,11 @@
   },
   "devDependencies": {
     "@shaizei/babel-preset": "^0.1.0-beta.12",
-    "@shaizei/eslint-config": "^0.1.0-beta.12",
+    "@shaizei/eslint-config": "^0.1.0-beta.13",
     "@shaizei/prettier-config": "^0.1.0-beta.12",
-    "@shaizei/scripts": "^0.1.0-beta.12",
+    "@shaizei/scripts": "^0.1.0-beta.13",
     "@shaizei/webpack-config": "^0.1.0-beta.12",
-    "@shaizei/cli": "^0.1.0-beta.12",
+    "@shaizei/cli": "^0.1.0-beta.13",
     "husky": "^3.0.5"
   }
 }
